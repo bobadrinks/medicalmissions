@@ -4,7 +4,6 @@ This mobile game is built for Android devices, and has two simple game modes. Wh
 
 ## Game Mode 1
 The player taps on a block to change its direction. Two blocks move from opposite sides of the screen towards a border, and they move at different speeds. If either block touches the border, the game is lost.
-![alt text](https://raw.githubusercontent.com/joswei/medicalmissions/master/Assets/Textures/traditionalhealer.png)
 
 ### Demo
 ![alt text](https://raw.githubusercontent.com/joswei/medicalmissions/master/GameMode1Demo.gif)
@@ -12,7 +11,6 @@ The player taps on a block to change its direction. Two blocks move from opposit
 
 ## Game Mode 2
 The player moves the Sprite left or right by swiping left or right on the screen. The goal of this game mode is to catch falling objects. The Sprite automatically changes its movement direction if it runs into the side of the screen. The player wins after catching 20 objects.
-![alt text](https://raw.githubusercontent.com/joswei/medicalmissions/master/Assets/Textures/biomedicaldoctor.png)
 
 ### Demo
 ![alt text](https://raw.githubusercontent.com/joswei/medicalmissions/master/GameMode2Demo.gif)
